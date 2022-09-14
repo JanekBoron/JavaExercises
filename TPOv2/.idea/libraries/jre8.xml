@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jre8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../sqljdbc_4.2/enu/jre8" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../sqljdbc_4.2/enu/jre8" recursive="false" />
+  </library>
+</component>

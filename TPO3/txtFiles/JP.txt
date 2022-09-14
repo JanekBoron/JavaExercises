@@ -1,0 +1,5 @@
+piwo:ビール
+student:学生
+programista:プログラマー
+inżynier:エンジニア
+pies:犬

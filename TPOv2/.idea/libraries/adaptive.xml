@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="adaptive">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../sqljdbc_4.2/enu/samples/adaptive" />
+      <root url="file://$PROJECT_DIR$/../sqljdbc_4.2/enu/samples/connections" />
+      <root url="file://$PROJECT_DIR$/../sqljdbc_4.2/enu/samples/datatypes" />
+      <root url="file://$PROJECT_DIR$/../sqljdbc_4.2/enu/samples/resultsets" />
+      <root url="file://$PROJECT_DIR$/../sqljdbc_4.2/enu/samples/sparse" />
+    </SOURCES>
+  </library>
+</component>

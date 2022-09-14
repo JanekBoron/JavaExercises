@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/adaptive" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/alwaysencrypted" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/azureactivedirectoryauthentication" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/connections" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/constrained" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/dataclassification" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/datatypes" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/resultsets" />
+      <root url="file://$PROJECT_DIR$/../../sqljdbc_10.2/enu/samples/sparse" />
+    </SOURCES>
+  </library>
+</component>

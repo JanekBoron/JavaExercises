@@ -1,0 +1,5 @@
+piwo:beer
+student:student
+programista:programmer
+inżnier:engineer
+pies:dog
